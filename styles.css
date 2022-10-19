@@ -1,3 +1,8 @@
+/* Common Styles */
+body {
+    margin: 0px;
+}
+
 /* Common NAV styles */
 .navigation-wrapper {
     height: 190px;
