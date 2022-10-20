@@ -1,9 +1,3 @@
-/* Common Styles */
-body {
-    margin: 0px;
-    font-family: 'Roboto', sans-serif;
-}
-
 /* Common NAV styles */
 .navigation-wrapper {
     height: 190px;
@@ -36,8 +30,10 @@ body {
     grid-gap: 10px;
 }
 
-.navigation-wrapper > .contact-hours-wrapper > .hours {
+.navigation-wrapper > .left-column > .contact-hours-wrapper > .hours {
     font-family: 'Ubuntu Condensed', sans-serif;
+    color: #858585;
+    font-size: 0.8em;
 }
 
 /* Center Column Styles */
@@ -86,7 +82,6 @@ body {
     display: flex;
     align-items: center;
 }
-
 
 .navigation-wrapper > .right-column >  .address-wrapper {
     font-family: 'Ubuntu Condensed', sans-serif;
