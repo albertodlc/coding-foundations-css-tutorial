@@ -42,6 +42,18 @@ body {
 .links-wrapper > .nav-link a {
     font-family: 'Ubuntu Condensed', sans-serif;
     color: #cbcbcb;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.links-wrapper > .nav-link a:hover {
+    color: #cea135;
+    letter-spacing: 2px;
+}
+
+.links-wrapper > .nav-link {
+    width: 70px;
+    text-align: center;
 }
 
 .navigation-wrapper > .right-column >  .address-wrapper {
