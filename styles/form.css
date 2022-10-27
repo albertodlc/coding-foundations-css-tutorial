@@ -28,6 +28,10 @@
     border: 3px solid #cea135;
 }
 
+.form > .form-group input::-webkit-input-placeholder, .form > .form-group textarea::-webkit-input-placeholder {
+    color: #11122b;
+}
+
 .form textarea {
     margin-top: 20px;
     width: 100%;
