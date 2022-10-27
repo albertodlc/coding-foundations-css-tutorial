@@ -22,5 +22,8 @@
     margin-bottom: 20px;
     text-align: right;
     font-size: 1.25em;
-    
+}
+
+.company-metadata-sidebar-wrapper > .company-details-wrapper i {
+    color: #cea135;
 }
